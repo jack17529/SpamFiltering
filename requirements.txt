@@ -1,0 +1,5 @@
+Python == 2.7.13 |Continuum Analytics, Inc.| (default, May 11 2017, 13:17:26) [MSC v.1500 64 bit (AMD64)]
+NLTK == 3.2.5
+Scikit-learn == 0.19.1
+Pandas == 0.21.0
+Numpy == 1.14.1
