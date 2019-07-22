@@ -36,3 +36,7 @@ FN = 9 (very less sms which are actually not spam were marked as spam)
 TN = 130 (sms which were marked spam and were spam)
 
 Accuracy=(TP+TN)/(TP+FP+FN+TN)= 0.9597701149425
+
+Accuracy is the most intuitive performance measure and it is simply a ratio of correctly predicted observation to the total observations. One may think that, if we have high accuracy then our model is best. Yes, accuracy is a great measure but only when you have symmetric datasets where values of false positive and false negatives are almost same.
+
+Thus we need F1 Score to evaluate the classification model.
