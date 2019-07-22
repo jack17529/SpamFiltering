@@ -34,3 +34,5 @@ FP = 53 (some sms which were marked ham but were actually spam)
 FN = 9 (very less sms which are actually not spam were marked as spam)
 
 TN = 130 (sms which were marked spam and were spam)
+
+Accuracy=(TP+TN)/(TP+FP+FN+TN)= 0.9597701149425
