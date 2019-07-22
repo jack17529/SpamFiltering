@@ -4,4 +4,4 @@
 https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
 
 ## Aim
-To classify sms as spam using sklearn, nltk and nlp.
+NLP for Text Classification with NLTK & Scikit-learn for classifying sms as spam or not spam.
